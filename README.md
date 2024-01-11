@@ -1,5 +1,6 @@
 # Compliment Generator for Your Plant
-_If trees gave us free Wi-Fi, we would plant more of them. It's a pity they only give us oxygen."
+> _“Imagine if trees gave off Wifi signals. We would be planting so many trees and we'd probably save the planet too. <br> Too bad they only produce the oxygen we breathe.”_
+~ _(Mudabbir Khalid in the Huffington Post, 2014)_
 
 Your plant literally contributes to keeping you alive, and what do you do for it in return? Forget to water it and neglect it? 
 
